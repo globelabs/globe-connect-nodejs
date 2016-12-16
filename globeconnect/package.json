@@ -1,0 +1,14 @@
+{
+  "name": "globe-connect",
+  "version": "1.0.0",
+  "description": "Globe Connect API for Node.JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "clark galgo <cgalgo@openovate.com>",
+  "license": "ISC",
+  "dependencies": {
+	"node-libcurl": "1.0.0"
+  }
+}
