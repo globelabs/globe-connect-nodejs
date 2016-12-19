@@ -1,6 +1,6 @@
 {
   "name": "globe-connect",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Globe Connect API for Node.JS",
   "main": "index.js",
   "scripts": {
@@ -16,5 +16,10 @@
   "license": "ISC",
   "dependencies": {
 	"node-libcurl": "1.0.0"
+  },
+  "homepage": "https://github.com/globelabs/globe-connect-nodejs",
+  "bugs" : {
+    "url" : "https://github.com/globelabs/globe-connect-nodejs/issues",
+    "email" : "globelabs@globe.com.ph"
   }
 }
