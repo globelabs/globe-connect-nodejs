@@ -1,6 +1,6 @@
 {
   "name": "globe-connect",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "Globe Connect API for Node.JS",
   "main": "index.js",
   "scripts": {
