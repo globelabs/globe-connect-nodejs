@@ -1452,9 +1452,9 @@ subscriber.getSubscriberBalance(function(resCode, body) {
 
 ```json
 {
-    terminalLocationList:
+    "terminalLocationList":
     {
-        terminalLocation:
+        "terminalLocation":
         [
             {
                 address: "639171234567",
@@ -1488,9 +1488,9 @@ subscriber.getReloadAmount(function(resCode, body) {
 
 ```json
 {
-    terminalLocationList:
+    "terminalLocationList":
     {
-        terminalLocation:
+        "terminalLocation":
         [
             {
                 address: "639171234567",
